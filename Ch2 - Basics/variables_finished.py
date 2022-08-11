@@ -28,7 +28,7 @@ print (myint)
 # to access a member of a sequence type, use []
 print(mylist[2])
 print(mytuple[1])
-# use slices to get parts of a sequence
+# use slices to get parts of a sequence// the third item is number of steps, in exapmle below, we have number 1 and 3 in the list
 print(mylist[1:4:2])
 # you can use slices to reverse a sequence
 print(mylist[::-1])
